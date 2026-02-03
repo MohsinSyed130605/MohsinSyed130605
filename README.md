@@ -3,7 +3,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=48&pause=250&color=FF0000&background=000000&center=true&vCenter=true&width=1200&height=100&lines=CSE+Junior;Data+Analytics;Data+Science;Artificial+Intelligence;Machine+Learning;Full-Stack+Web+Development;Research+%26+Projects" 
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=48&pause=250&color=FF0000&background=000000&center=true&vCenter=true&width=1200&height=100&lines=BCA;Data+Analytics;Data+Science;Artificial+Intelligence;Machine+Learning;Full-Stack+Web+Development;Research+%26+Projects" 
     alt="Typing SVG" />
   </a>
 </h1>
@@ -28,12 +28,12 @@
 
 ### 🚀 About Me
 
-I’m an **undergraduate Computer Science student** passionate about leveraging **AI, Data Science, and Software Development** to build intelligent, impactful systems.  
+I’m an **undergraduate Computer Application student** passionate about leveraging **AI, Data Science, and Software Development** to build intelligent, impactful systems.  
 I love creating things that blend **logic, design, and real-world utility** — from smart web apps to AI-driven tools.
 
 - 🔭 Currently working on: **AI Study Buddy** – an AI-powered study assistant using *Streamlit + Gemini API*  
 - 🌱 Learning: **Machine Learning**, **Backend Development**, **Cloud Deployment**, and **AI Agents**  
-- 💡 Interests: **AI**, **ML**, **Full-Stack Web Dev**, **Data Visualization**, **Robotics Software**  
+- 💡 Interests: **AI**, **ML**, **Data Visualization**, **Robotics Software**  
 - 🎯 Goal: Build projects that merge **innovation with practicality**  
 - 💬 Fun Fact: Every repo I make reflects my journey — learning ➡️ building ➡️ deployment.
 > _“I aspire to be productive, collaborative, and inspirational.”_ 🌟
