@@ -20,24 +20,14 @@
 
 ## 🧑‍💻 About Me
 
-```python
-class MohsinSyed:
-    def __init__(self):
-        self.name       = "Mohsin Syed"
-        self.username   = "MohsinSyed130605"
-        self.role       = "Student 🎓"
-        self.location   = "India 🇮🇳"
-        self.stack      = ["Python 🐍", "MySQL 🗄️", "MongoDB 🍃"]
-        self.learning   = ["Data Structures", "Backend Development", "AI/ML"]
-        self.interests  = ["Problem Solving", "Data", "Open Source"]
-        self.fun_fact   = "I debug with print() and I'm proud of it 😄"
+👋 Hi there! I'm **Mohsin Syed**, a passionate and curious student from **India 🇮🇳** who loves turning ideas into reality through code.
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something awesome 🚀")
-
-me = MohsinSyed()
-me.say_hi()
-```
+- 🎓 Currently a **Student**, exploring the world of tech one project at a time
+- 🐍 I work with **Python**, **MySQL**, and **MongoDB** to build and manage data-driven applications
+- 📚 Currently learning **Data Structures**, **Backend Development**, and diving into **AI/ML**
+- 💡 I enjoy **problem solving**, working with **data**, and contributing to **open source**
+- 😄 Fun fact: I debug with `print()` and I'm proud of it!
+- 🚀 Always learning, always growing — let's build something awesome together!
 
 ---
 
