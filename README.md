@@ -22,11 +22,12 @@
 
 👋 Hi there! I'm **Mohsin Syed**, a passionate and curious student from **India 🇮🇳** who loves turning ideas into reality through code.
 
-- 🎓 Currently a **Student**, exploring the world of tech one project at a time
+- 🎓 Currently pursuing my degree at **Integral University, Lucknow**
 - 🐍 I work with **Python**, **MySQL**, and **MongoDB** to build and manage data-driven applications
 - 📚 Currently learning **Data Structures**, **Backend Development**, and diving into **AI/ML**
 - 💡 I enjoy **problem solving**, working with **data**, and contributing to **open source**
-- 😄 Fun fact: I debug with `print()` and I'm proud of it!
+- 😄 Fun fact: I once spent 3 hours debugging — only to find a missing comma. Still worth it. 😅
+- 🌙 I do my best coding after midnight when the world is quiet and the bugs are loud 🐛
 - 🚀 Always learning, always growing — let's build something awesome together!
 
 ---
@@ -40,7 +41,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-24243e?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![Git](https://img.shields.io/badge/Git-0f0c29?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-302b63?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-24243e?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 
 </div>
 
@@ -67,6 +67,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-MohsinSyed130605-a78bfa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohsinSyed130605)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohsin%20Syed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsin-syed-5954392b6)
 
 </div>
 
