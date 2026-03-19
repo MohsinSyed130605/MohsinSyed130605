@@ -40,7 +40,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-302b63?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-24243e?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![Git](https://img.shields.io/badge/Git-0f0c29?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-302b63?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
