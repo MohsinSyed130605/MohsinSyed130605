@@ -22,7 +22,7 @@
 
 👋 Hi there! I'm **Mohsin Syed**, a passionate and curious student from **India 🇮🇳** who loves turning ideas into reality through code.
 
-- 🎓 Currently pursuing my **Bachelor's in Computer Applications** at **Integral University, Lucknow**
+- 🎓 Currently pursuing my **Bachelor's in Computer Application (BCA)** at **Integral University, Lucknow**
 - 🐍 I work with **Python**, **MySQL**, and **MongoDB** to build and manage data-driven applications
 - 📚 Currently learning **Data Structures**, **Backend Development**, and diving into **AI/ML**
 - 💡 I enjoy **problem solving**, working with **data**, and contributing to **open source**
